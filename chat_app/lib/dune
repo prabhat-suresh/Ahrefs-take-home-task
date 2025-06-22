@@ -1,0 +1,4 @@
+(library
+ (name chat_app)
+ (libraries eio yojson ppx_deriving_yojson.runtime unix)
+ (preprocess (pps ppx_deriving_yojson)))
