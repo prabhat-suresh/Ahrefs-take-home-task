@@ -2,7 +2,7 @@
 [Instructions for the task](/instructions.md)
 
 ### Demo
-[View the demo](./Ahrefs_take_home_task_demo.mkv)
+[View the demo](./Ahrefs_take_home_task_compressed.mp4)
 
 
 ## Build and Run the project
@@ -26,7 +26,7 @@ Run the executable and get info regarding arguments:
 
 
 ### Running the executable without building
-You can find the executable for Linux(x86-64) in the release section. Download and execute it after giving it permissions.
+You can find the executable for Linux(x86-64) in the [release section](https://github.com/prabhat-suresh/Ahrefs-take-home-task/releases/tag/v1.0.0). Download and execute it after giving it permissions.
 
 Run a server instance:
 ```bash
